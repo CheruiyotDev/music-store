@@ -58,3 +58,6 @@ audio {
 body {
   background-color: rgb(202, 194, 194) !important;
 }
+.card:hover {
+  cursor: pointer;
+}
